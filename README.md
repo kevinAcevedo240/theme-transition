@@ -3,7 +3,7 @@
   
   <br />
 
-  [![image.jpg](https://i.postimg.cc/K8R5gXHW/theme-transition-video-1.png)](https://www.kevin-acevedo.dev/)
+  [![theme-transition-video-1.png](https://i.postimg.cc/K8R5gXHW/theme-transition-video-1.png)](https://www.kevin-acevedo.dev/)
 
   <br/>
 
@@ -16,7 +16,8 @@
     
   </div>
 
-<div align="center">
+  <h2 align="center">Theme Transition with Next Js</h2>
+  <div align="center">
     <a href="https://theme-transition.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Demo-View%20Demo-blue?style=for-the-badge" alt="View Demo">
     </a>
