@@ -3,7 +3,7 @@
   
   <br />
 
-<a href='https://postimg.cc/4YRcr0Zv' target='_blank'><img src='https://i.postimg.cc/4YRcr0Zv/theme-transition-video-1.png' border='0' alt='theme-transition-video-1'/></a>
+[theme-transition-video-1.png](https://postimg.cc/4YRcr0Zv)
 
   <br/>
 
